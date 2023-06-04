@@ -182,9 +182,6 @@ int homestay_tt::getsodem(){
 }
 homestay_tt tt;
 void bill(homestay_tt &tt){
-  //  system("cls");
-  //  ofstream file;
-  //  file.open("thanhtoan.txt",ios::in);
         int n,k;
         cout<< "BANG GIA"<<endl;
         cout<<"phong 1 800k/1dem"<<endl;
